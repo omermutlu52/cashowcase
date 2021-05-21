@@ -1,0 +1,2 @@
+cct/tripbillsplitter/caomerMutlu/CaomerMutluApplicationTests.java
+ cct.tripbillsplitter.caomerMutlu.CaomerMutluApplicationTests
